@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     TextView txtResult;
     TextView txtUS;
     TextView txtCan;
-    Button button;
+    Button btnConvert;
     Button button2;
     Button btnExit;
     AlertDialog.Builder exitMessage;
